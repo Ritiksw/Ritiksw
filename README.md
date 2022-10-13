@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ritik Sonaji Wandale</h1>
+<h1 align="center">Hi 👋, I'm Ritik Wandale</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
 <p align="left">
