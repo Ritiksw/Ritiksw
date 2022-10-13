@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/ritik-wandale-a1aa6a203"
+    href="https://linkedin.com/in/https://www.linkedin.com/in/ritik-wandale-a1aa6a203/"
     target="blank"
     ><img
       align="center"
