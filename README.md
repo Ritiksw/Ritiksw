@@ -128,7 +128,6 @@
   </a>
 </p>
 <br>
-<br>
 
 <p>
   <img
@@ -137,7 +136,7 @@
     alt="ritiksw"
   />
 </p>
-
+<br>
 <p>
   &nbsp;<img
     align="center"
