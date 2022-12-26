@@ -100,7 +100,7 @@
     />
   </a>
 
-  <a href="https://www.cloudskillsboost.google/profile/badges" target="_blank" rel="noreferrer">
+  <a href="https://www.cloudskillsboost.google/public_profiles/3dc0bac1-50ef-434c-9e31-6e609f0c3570" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
       alt="gcp"
