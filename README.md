@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritik Wandale</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A passionate Full Stack developer.</h3>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
@@ -9,7 +9,7 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on **MyPersonal Portfolio** - 📫 How to reach me
+- 📫 How to reach me
 **wandaleritik101@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
